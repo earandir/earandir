@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @earandir
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning AI & ML
+- 🌱 I’m currently learning AI & MLOps
 - 💞️ I’m looking to collaborate with :world: 
-- 📫 How to reach me: ¿?
+- 📫 How to reach me: 
 
 <!---
 earandir/earandir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
